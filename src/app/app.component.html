@@ -1,0 +1,18 @@
+<div class="w-100 text-center">
+  <div class="w-100 inner">
+    <div class="map-container">
+      <div class="map-frame">
+        <div id="map"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<p>
+  {{msg[msgIndex]}}
+</p>
+
+
+<p class="fw-bold" *ngIf="distance>0">
+  Distance:
+  {{distance | kmPipe}} KM
+</p>
