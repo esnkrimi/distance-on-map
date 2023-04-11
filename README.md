@@ -1,6 +1,6 @@
 # Angular #Leaflet #Map #Distance
 
-Distance between two point on Map using Leaflet 
+Distance between two point on Map using angular 15 and Leaflet 
 
 Demonstration : 
 
